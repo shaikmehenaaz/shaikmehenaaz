@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehenaaz</h1>
 <h3 align="center">A passionate backend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/panda-waving-cartoon-sticker-pi4qfklzce0s7zo5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikmehenaaz&label=Profile%20views&color=0e75b6&style=flat" alt="shaikmehenaaz" /> </p>
 
