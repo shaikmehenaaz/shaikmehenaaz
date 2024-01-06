@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shaikmehenaaz@gmail.com**
 
-- 📄 Know about my experiences [[https://docs.google.com/document/d/1FiyPuKzwwVRuW9qig8b71e9MfZWsuYPjPJrTmJ1-M7w/edit?usp=sharing](https://docs.google.com/document/d/1FiyPuKzwwVRuW9qig8b71e9MfZWsuYPjPJrTmJ1-M7w/edit?usp=sharing)](https://drive.google.com/file/d/18ZuhmeToc8vm2Mo2MMav1pFCBkSSRdFz/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18ZuhmeToc8vm2Mo2MMav1pFCBkSSRdFz/view?usp=sharing](https://drive.google.com/file/d/18ZuhmeToc8vm2Mo2MMav1pFCBkSSRdFz/view?usp=sharing)
 
 - ⚡ Fun fact **I got superpowers ;)**
 
