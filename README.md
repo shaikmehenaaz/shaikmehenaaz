@@ -4,13 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikmehenaaz&label=Profile%20views&color=0e75b6&style=flat" alt="shaikmehenaaz" /> </p>
 
-- 🔭 I’m currently working on **a web application**
-
-- 🌱 I’m currently learning **maven and php**
-
-- 👯 I’m looking to collaborate on **java web developers**
-
-- 💬 Ask me about **AI and ML**
+- 🔭Results-driven Computer Science graduate proficient in cloud platforms (Azure, AWS, Google Cloud), Java,
+and Python. Skilled in deploying static web pages, leading workshops, and collaborating on innovative
+projects. Recognized for certifications in AWS, Google Cloud, and programming. Strong academic record and proven leadership in technical teams and community initiatives. Eager to contribute expertise in cloud 
+solutions, machine learning, and software development.
 
 - 📫 How to reach me **shaikmehenaaz@gmail.com**
 
