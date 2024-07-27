@@ -9,9 +9,12 @@ and Python. Skilled in deploying static web pages, leading workshops, and collab
 projects. Recognized for certifications in AWS, Google Cloud, and programming. Strong academic record and proven leadership in technical teams and community initiatives. Eager to contribute expertise in cloud 
 solutions, machine learning, and software development.
 
+- LinkedIn: https://www.linkedin.com/in/mehenaaz/
+
 - 📫 How to reach me **shaikmehenaaz@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18ZuhmeToc8vm2Mo2MMav1pFCBkSSRdFz/view?usp=sharing](https://drive.google.com/file/d/18ZuhmeToc8vm2Mo2MMav1pFCBkSSRdFz/view?usp=sharing)
+- 📄 Resume: (https://drive.google.com/file/d/18ZuhmeToc8vm2Mo2MMav1pFCBkSSRdFz/view?usp=sharing)
+](https://drive.google.com/file/d/1oEgdrSCpEpm72iVY5PInJcN0frmYr7u4/view?usp=sharing)
 
 - ⚡ Fun fact **I got superpowers ;)**
 
