@@ -14,7 +14,6 @@ solutions, machine learning, and software development.
 - 📫 How to reach me **shaikmehenaaz@gmail.com**
 
 - 📄 Resume: (https://drive.google.com/file/d/18ZuhmeToc8vm2Mo2MMav1pFCBkSSRdFz/view?usp=sharing)
-](https://drive.google.com/file/d/1oEgdrSCpEpm72iVY5PInJcN0frmYr7u4/view?usp=sharing)
 
 - ⚡ Fun fact **I got superpowers ;)**
 
