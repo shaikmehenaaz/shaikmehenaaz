@@ -13,7 +13,7 @@ solutions, machine learning, and software development.
 
 - 📫 How to reach me **shaikmehenaaz@gmail.com**
 
-- 📄 Resume: (https://drive.google.com/file/d/18ZuhmeToc8vm2Mo2MMav1pFCBkSSRdFz/view?usp=sharing)
+- 📄 Resume: ([https://drive.google.com/file/d/18ZuhmeToc8vm2Mo2MMav1pFCBkSSRdFz/view?usp=sharing](https://drive.google.com/file/d/1V2Fxe8E95dgVu9fSI7PBqpmjj5Db4023/view?usp=sharing))
 
 - ⚡ Fun fact **I got superpowers ;)**
 
